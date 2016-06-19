@@ -1,0 +1,7 @@
+[28-Feb-2015 10:29:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, string given in /home/cekerus/public_html/header.php on line 29
+[28-Feb-2015 10:29:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cekerus/public_html/header.php:29) in /home/cekerus/public_html/header.php on line 31
+[28-Feb-2015 10:30:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, string given in /home/cekerus/public_html/header.php on line 29
+[28-Feb-2015 10:30:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cekerus/public_html/header.php:29) in /home/cekerus/public_html/header.php on line 31
+[28-Feb-2015 10:32:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, string given in /home/cekerus/public_html/header.php on line 29
+[28-Feb-2015 10:32:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cekerus/public_html/header.php:29) in /home/cekerus/public_html/header.php on line 31
+[28-Feb-2015 10:32:49 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/cekerus/public_html/header.php on line 29

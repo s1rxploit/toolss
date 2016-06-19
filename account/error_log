@@ -1,0 +1,7 @@
+[01-Mar-2015 00:50:58 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cekerus/public_html/account/index.php on line 21
+[01-Mar-2015 00:50:58 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cekerus/public_html/account/index.php on line 22
+[01-Mar-2015 00:50:58 Asia/Jakarta] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cekerus/public_html/account/index.php on line 21
+[01-Mar-2015 00:50:58 Asia/Jakarta] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home/cekerus/public_html/account/index.php on line 22
+[05-Jun-2015 17:56:04 UTC] PHP Warning:  mysql_connect(): Access denied for user 'cekerus_to'@'localhost' (using password: YES) in /home/jenggotnews/public_html/config.php on line 6
+[05-Jun-2015 17:58:59 UTC] PHP Warning:  mysql_connect(): Access denied for user 'jenggotn_jhe'@'localhost' (using password: YES) in /home/jenggotnews/public_html/config.php on line 6
+[05-Jun-2015 18:03:52 UTC] PHP Warning:  mysql_connect(): Access denied for user 'jenggotn_jhe2'@'localhost' (using password: YES) in /home/jenggotnews/public_html/config.php on line 6

@@ -1,0 +1,3 @@
+[28-Feb-2015 17:48:33 UTC] PHP Warning:  file_get_contents(https://blockchain.info/id/address/?format=json): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ in /home/cekerus/public_html/buy/btc/check/index.php on line 14
+[28-Feb-2015 17:48:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cekerus/public_html/buy/btc/check/index.php:14) in /home/cekerus/public_html/buy/btc/check/index.php on line 18

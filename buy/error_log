@@ -1,0 +1,2 @@
+[28-Feb-2015 10:32:20 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, string given in /home/cekerus/public_html/header.php on line 29
+[28-Feb-2015 10:32:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/cekerus/public_html/header.php:29) in /home/cekerus/public_html/header.php on line 31
